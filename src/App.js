@@ -73,7 +73,7 @@ const App = () => {
             </p>
 
             <p>
-            I spearheaded the development of Physician Finder, a multi-agent AI chatbot revolutionizing doctor discovery by delivering personalized recommendations based on symptoms, provider expertise, and quality and efficiency scores derived from claims data.
+            I spearheaded the development of Physician Finder, a multi-agent AI chatbot revolutionizing doctor discovery by delivering personalized recommendations based on symptoms, provider expertise, and quality scores derived from claims data.
             </p>
 
             <p>
