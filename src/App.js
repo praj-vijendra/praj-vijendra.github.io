@@ -92,7 +92,7 @@ const App = () => {
             
             <p>
               Off the keyboard, you'll find me playing chess, hitting tennis balls, or watching Formula 1 races. 
-              Always up for a friendly match or discussing the latest F1 strategies over coffee!
+              Always up for a friendly match or to chat about the latest AI research over coffee!
             </p>
           </div>
         </div>
