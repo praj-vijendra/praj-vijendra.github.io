@@ -69,20 +69,6 @@ a:hover .arrow {
   text-transform: uppercase;
   font-weight: 600;
 }
-.hero .eyebrow {
-  color: var(--accent);
-  display: flex;
-  align-items: center;
-  gap: 9px;
-  margin-bottom: 26px;
-}
-.status-dot {
-  height: 6px;
-  width: 6px;
-  border-radius: 50%;
-  background: var(--accent);
-  flex-shrink: 0;
-}
 .hero h1 {
   font-family: var(--serif);
   font-size: clamp(66px, 7.1vw, 96px);
@@ -406,10 +392,6 @@ h1 em,
     font-size: 65px;
     letter-spacing: -3.5px;
   }
-  .hero .eyebrow {
-    font-size: 8px;
-    letter-spacing: 1px;
-  }
   .portrait-frame {
     height: 270px;
   }
@@ -462,11 +444,6 @@ h1 em,
     grid-template-columns: 1fr;
     gap: 35px;
     padding-block: 45px 48px;
-  }
-  .hero .eyebrow {
-    font-size: 9px;
-    letter-spacing: 1.1px;
-    margin-bottom: 23px;
   }
   .hero h1 {
     font-size: 76px;

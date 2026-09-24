@@ -96,9 +96,6 @@ function App() {
       <main id="main">
         <section className="hero shell" aria-labelledby="intro-heading">
           <div className="hero-copy">
-            <p className="eyebrow">
-              <span className="status-dot" /> Staff AI Engineer · San Francisco
-            </p>
             <h1 id="intro-heading">
               Prajwal
               <br />
